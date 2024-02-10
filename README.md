@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dinaklal
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Spark
-- 💞️ I’m looking to collaborate on Data ,ML and NLP
+- 🌱 I’m currently working as Data Engineer
+- 💞️ I’m looking to collaborate on Data
 - 📫 How to reach me dinaklal@gmail.com
 
 <!---
